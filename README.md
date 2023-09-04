@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Just-Icon
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development and its technologies
+- 🌱 I’m currently learning the mern stck
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : icon.yahweh@gmail.com
 
